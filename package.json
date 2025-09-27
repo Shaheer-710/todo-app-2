@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sddsa",
+=======
+  "name": "1",
+>>>>>>> b50b8c708155ad017ce578bf2329ded2780ee781
   "private": true,
   "version": "0.0.0",
   "type": "module",

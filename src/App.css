@@ -1,0 +1,101 @@
+/* App.css */
+
+.a {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 12px;
+  background: #f9f9f9;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+.b {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.c {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.d {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  font-size: 14px;
+}
+
+.d:focus {
+  border-color: #007bff;
+}
+
+.e {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.e:hover {
+  background: #0056b3;
+}
+
+.f {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.g {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 8px;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+}
+
+.h {
+  display: flex;
+  gap: 8px;
+}
+
+.i,
+.j {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: 0.3s;
+}
+
+.i {
+  background: #dc3545;
+  color: white;
+}
+
+.i:hover {
+  background: #a71d2a;
+}
+
+.j {
+  background: #ffc107;
+  color: #333;
+}
+
+.j:hover {
+  background: #e0a800;
+}
